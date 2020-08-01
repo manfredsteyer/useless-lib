@@ -1,0 +1,16 @@
+{
+  "name": "useless-lib",
+  "version": "1.0.0",
+  "description": "Dummy lib for testing purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Manfred Steyer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manfredsteyer/useless-lib"
+  }
+}
